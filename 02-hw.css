@@ -1,3 +1,38 @@
+
+html {
+    height: 100%;
+}
 body {
-    background-color: black;
+    height: 100%;
+}
+.hero-section {
+    background-color: #fafafa;
+    text-align: center;
+    padding-top: 30vh;
+    height: 100%;
+    box-sizing: border-box;
+}
+.hero-section h3 {
+    font-family: Arial;
+    font-size: 32px;
+    color: #387cc6;
+}
+.hero-section p {
+    font-family: Arial;
+    font-weight: lighter;
+    color: black;
+}
+body section {
+    width: 80%;
+    margin-left: 10%;
+    margin-right: 10%;
+    height: 80%;
+    background-color: aquamarine;
+}
+.digpic img {
+    width: 50%;
+    padding-top: 20vh;
+}
+.info {
+    margin-left: 50%;
 }
