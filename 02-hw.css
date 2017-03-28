@@ -27,12 +27,48 @@ body section {
     margin-left: 10%;
     margin-right: 10%;
     height: 80%;
-    background-color: aquamarine;
+}
+.digpic {
+    width: 45%;
 }
 .digpic img {
-    width: 50%;
+    width: 90%;
     padding-top: 20vh;
+    text-align: right;
+    vertical-align: middle;
+    margin-top: -20%;
+}
+.info * {
+    vertical-align: top;
+}
+section div {
+    display: inline-block;
 }
 .info {
-    margin-left: 50%;
+    width: 45%;
+    vertical-align: middle;
+}
+.info h2 {
+    color: #387CC6;
+    text-align: left;
+    font-family: sans-serif;
+    font-weight: lighter;
+    font-size: 45px;
+}
+.info p {
+    text-align: left;
+    font-family: sans-serif;
+    font-weight: lighter;
+    font-size: 22px;
+}
+.threepuppies {
+    text-align: center;
+    font-family: sans-serif;
+    font-weight: lighter;
+    font-size: 10px;
+
+}
+.threepuppies figure {
+    display: inline-block;
+    margin: 20px;
 }
