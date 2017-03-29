@@ -11,6 +11,10 @@ body {
     padding-top: 30vh;
     height: 100%;
     box-sizing: border-box;
+    /*the below margins were to make the gray fill the page*/
+    margin-left: -10px;
+    margin-right: -10px;
+    margin-top: -10px;
 }
 .hero-section h3 {
     font-family: Arial;
